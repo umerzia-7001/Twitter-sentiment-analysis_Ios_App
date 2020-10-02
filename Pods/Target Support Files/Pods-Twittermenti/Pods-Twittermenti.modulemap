@@ -1,0 +1,6 @@
+module Pods_Twittermenti {
+  umbrella header "Pods-Twittermenti-umbrella.h"
+
+  export *
+  module * { export * }
+}
